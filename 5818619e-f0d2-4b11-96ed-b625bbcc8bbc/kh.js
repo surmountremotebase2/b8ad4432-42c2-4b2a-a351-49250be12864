@@ -1,1 +1,1 @@
-# Type code here
+const hello = 12
